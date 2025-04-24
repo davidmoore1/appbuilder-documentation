@@ -1,0 +1,4 @@
+"files":
+  - source: /docs/**/*.docx
+    translation: /i18n/%locale%/%one_level_up%/%original_file_name%
+
