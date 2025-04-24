@@ -3,5 +3,5 @@ api_token_env: CROWDIN_PERSONAL_TOKEN
 
 "files":
   - source: /docs/**/*.docx
-    translation: /i18n/%locale%/%one_level_up%/%original_file_name%
+    translation: /i18n/%locale%/**/%original_file_name%
 
